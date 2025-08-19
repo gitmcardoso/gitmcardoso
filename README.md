@@ -38,7 +38,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 - 🎓 Atualmente estudo no **SENAI - Desenvolvimento de Sistemas**
 - 💻 Estou aprendendo **Java | HTML | CSS | Python | JS |**
-- 🎯 Meu objetivo é **ser um Desenvolvedor Back-End e futuramente ingressar n área de cybersecurity** 
+- 🎯 Meu objetivo é **ser um Desenvolvedor Back-End e futuramente ingressar na área de cybersecurity** 
 ---
 
 ## 📫 Como me encontrar
