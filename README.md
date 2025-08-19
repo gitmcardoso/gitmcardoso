@@ -30,8 +30,6 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
 | **Talktodoc** | [🔗 Ver online](https://talktodoc-one.vercel.app) | HTML / CSS / JS / NextJS/ Typescript|
-| **Quiz Paises** | [🔗 Ver online]() |HTML / CSS / JS|
-
 ---
 
 ## 💡 Sobre Mim
